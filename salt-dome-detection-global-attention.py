@@ -2,7 +2,7 @@
 Salt Dome Detection in Seismic Data Using a True 3D Global Attention
 Convolutional Network with Self-Supervised Denoising Pretext Training
 
-Copyright (c) 2025 Matin Mahzad
+Copyright (c) 2026 Matin Mahzad
 
 This implementation accompanies the paper:
 "Salt Dome Detection in Seismic Data Using a True 3D Global Attention
@@ -37,7 +37,7 @@ If you use this code in your research, please cite:
   title={Salt Dome Detection in Seismic Data Using a True 3D Global Attention
          Convolutional Network with Self-Supervised Denoising Pretext Training},
   author={Mahzad, Matin and Bagheri, Majid},
-  journal={[Journal Name]},
+  journal={[Scientific Reports]},
   year={2026}
 }
 
