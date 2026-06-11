@@ -308,8 +308,6 @@ If you use this code in your research, please cite:
   title={Salt Dome Detection in Seismic Data Using a True 3D Global Attention
          Convolutional Network with Self-Supervised Denoising Pretext Training},
   author={Mahzad, Matin and Bagheri, Majid},
-  journal={[Scientific Reports]},
-  year={2026}
 }
 
 @article{mahzad2026denoising,
